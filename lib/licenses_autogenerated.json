@@ -148,6 +148,10 @@
     "id": "any-OSI",
     "name": "Any OSI License"
   },
+  "any-osi-perl-modules": {
+    "id": "any-OSI-perl-modules",
+    "name": "Any OSI License - Perl Modules"
+  },
   "apache-1.0": {
     "id": "Apache-1.0",
     "name": "Apache License 1.0"
@@ -303,6 +307,10 @@
   "boehm-gc": {
     "id": "Boehm-GC",
     "name": "Boehm-Demers-Weiser GC License"
+  },
+  "boehm-gc-without-fee": {
+    "id": "Boehm-GC-without-fee",
+    "name": "Boehm-Demers-Weiser GC License (without fee)"
   },
   "borceux": {
     "id": "Borceux",
@@ -738,6 +746,14 @@
     "id": "CC-PDDC",
     "name": "Creative Commons Public Domain Dedication and Certification"
   },
+  "cc-pdm-1.0": {
+    "id": "CC-PDM-1.0",
+    "name": "Creative    Commons Public Domain Mark 1.0 Universal"
+  },
+  "cc-sa-1.0": {
+    "id": "CC-SA-1.0",
+    "name": "Creative Commons Share Alike 1.0 Generic"
+  },
   "cc0-1.0": {
     "id": "CC0-1.0",
     "name": "Creative Commons Zero v1.0 Universal"
@@ -969,6 +985,18 @@
     "id": "DOC",
     "name": "DOC License"
   },
+  "docbook-schema": {
+    "id": "DocBook-Schema",
+    "name": "DocBook Schema License"
+  },
+  "docbook-stylesheet": {
+    "id": "DocBook-Stylesheet",
+    "name": "DocBook Stylesheet License"
+  },
+  "docbook-xml": {
+    "id": "DocBook-XML",
+    "name": "DocBook XML License"
+  },
   "dotseqn": {
     "id": "Dotseqn",
     "name": "Dotseqn License"
@@ -1191,6 +1219,10 @@
   "gd": {
     "id": "GD",
     "name": "GD License"
+  },
+  "generic-xts": {
+    "id": "generic-xts",
+    "name": "Generic XTS License"
   },
   "gfdl-1.1": {
     "id": "GFDL-1.1",
@@ -1598,6 +1630,10 @@
     "id": "Inner-Net-2.0",
     "name": "Inner Net License v2.0"
   },
+  "innosetup": {
+    "id": "InnoSetup",
+    "name": "Inno Setup License"
+  },
   "intel": {
     "id": "Intel",
     "name": "Intel Open Source License",
@@ -1941,6 +1977,10 @@
     "id": "Minpack",
     "name": "Minpack License"
   },
+  "mips": {
+    "id": "MIPS",
+    "name": "MIPS License"
+  },
   "miros": {
     "id": "MirOS",
     "name": "The MirOS Licence",
@@ -1967,6 +2007,10 @@
   "mit-advertising": {
     "id": "MIT-advertising",
     "name": "Enlightenment License (e16)"
+  },
+  "mit-click": {
+    "id": "MIT-Click",
+    "name": "MIT Click License"
   },
   "mit-cmu": {
     "id": "MIT-CMU",
@@ -2723,6 +2767,10 @@
     "id": "Sendmail-8.23",
     "name": "Sendmail License 8.23"
   },
+  "sendmail-open-source-1.1": {
+    "id": "Sendmail-Open-Source-1.1",
+    "name": "Sendmail Open Source License v1.1"
+  },
   "sgi-b-1.0": {
     "id": "SGI-B-1.0",
     "name": "SGI Free Software License B v1.0"
@@ -2786,6 +2834,10 @@
       "non-reusable",
       "osi-approved"
     ]
+  },
+  "smail-gpl": {
+    "id": "SMAIL-GPL",
+    "name": "SMAIL General Public License"
   },
   "smlnj": {
     "id": "SMLNJ",
@@ -2906,6 +2958,10 @@
     "id": "TGPPL-1.0",
     "name": "Transitive Grace Period Public Licence 1.0"
   },
+  "thirdeye": {
+    "id": "ThirdEye",
+    "name": "ThirdEye License"
+  },
   "threeparttable": {
     "id": "threeparttable",
     "name": "threeparttable License"
@@ -2930,6 +2986,10 @@
     "id": "TPL-1.0",
     "name": "THOR Public License 1.0"
   },
+  "trustedqsl": {
+    "id": "TrustedQSL",
+    "name": "TrustedQSL License"
+  },
   "ttwl": {
     "id": "TTWL",
     "name": "Text-Tabs+Wrap License"
@@ -2945,6 +3005,10 @@
   "tu-berlin-2.0": {
     "id": "TU-Berlin-2.0",
     "name": "Technische Universitaet Berlin License 2.0"
+  },
+  "ubuntu-font-1.0": {
+    "id": "Ubuntu-font-1.0",
+    "name": "Ubuntu Font Licence v1.0"
   },
   "ucar": {
     "id": "UCAR",
@@ -3061,6 +3125,10 @@
   "wtfpl": {
     "id": "WTFPL",
     "name": "Do What The F*ck You Want To Public License"
+  },
+  "wwl": {
+    "id": "wwl",
+    "name": "WWL License"
   },
   "wxwindows": {
     "id": "wxWindows",
